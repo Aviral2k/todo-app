@@ -1,0 +1,6 @@
+{
+  "name": "@affordmed/logging-middleware",
+  "version": "1.0.0",
+  "description": "A reusable middleware for sending logs to the evaluation service.",
+  "main": "index.js"
+}
